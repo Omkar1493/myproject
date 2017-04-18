@@ -47,7 +47,7 @@ for eachline in sort:
 
 
 print "=========================================="
-
+echo "hello"
 c=0;
 sample = open("india.txt")
 csv1 = csv.reader(sample, delimiter='|')
