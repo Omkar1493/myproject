@@ -44,7 +44,7 @@ for eachline in sort:
     c=c+1;
     if c==10:
         break;
-
+echo "hi"
 
 print "=========================================="
 echo "hello"
