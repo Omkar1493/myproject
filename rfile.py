@@ -32,6 +32,9 @@ with open("russia.txt", "r") as f:
     print(sorted)'''
 
 
+
+'''hi check this'''
+
 import csv
 import operator
 
